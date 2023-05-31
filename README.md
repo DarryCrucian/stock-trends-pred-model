@@ -1,7 +1,4 @@
 # stock-trends-pred-model
-
-Sure, here is a description for the project:
-
 This project is a stock trend predictor that uses machine learning to predict the future price of a stock. The project uses the following steps:
 
 1. Download historical data for the stock from Yahoo Finance.
